@@ -1,0 +1,1 @@
+# OpenCVのFaceAngleLBFの使い方をChatGPTに手伝ってもらう
